@@ -1,0 +1,11 @@
+{
+	"name": "workspace",
+	"version": "0.0.1",
+	"description": "",
+	"scripts":
+	{
+		"start": "open ./workspace.app"
+	},
+	"author": "Ken OKABE",
+	"license": "MIT"
+}
